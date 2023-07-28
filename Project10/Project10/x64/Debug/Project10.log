@@ -1,0 +1,11 @@
+﻿  project10.cpp
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(19,13): error C4996: 'EC_KEY_new': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(26,9): error C4996: 'EC_KEY_set_group': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(28,9): error C4996: 'EC_KEY_free': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(33,9): error C4996: 'EC_KEY_generate_key': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(35,9): error C4996: 'EC_KEY_free': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(46,28): error C4996: 'ECDSA_do_sign': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(90,18): error C4996: 'ECDSA_do_verify': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(102,17): error C4996: 'EC_KEY_dup': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(116,5): error C4996: 'EC_KEY_free': Since OpenSSL 3.0
+C:\Users\Onlooker\OneDrive\桌面\22PROJECTS\Project10\Project10\project10.cpp(117,5): error C4996: 'EC_KEY_free': Since OpenSSL 3.0
